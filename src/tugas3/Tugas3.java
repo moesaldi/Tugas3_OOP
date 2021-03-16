@@ -17,7 +17,7 @@ public class Tugas3 {
         
         int guess,randomInt;
         randomInt = rand.nextInt(100);
-        System.out.println(randomInt);
+        //System.out.println(randomInt);
         System.out.println("Guess a magic number between 0 and 100");
         do{
             System.out.print("Enter your guess : ");
